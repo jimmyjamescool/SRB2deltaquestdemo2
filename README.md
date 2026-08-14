@@ -6,6 +6,11 @@ You will need to get the music.dta from https://github.com/jimmyjamescool/Srb2de
 It currently has two builds: SDL2 and Win32, both found in the `/dev/` folder.
 While the Win32 build is functionally worse, such as being limited to 640x400, the SDL2 build has much better functionality, but currently has no MIDI or digital audio support. 
 
+## Roadmap
+
+https://github.com/jimmyjamescool/SRB2deltaquestdemo2/blob/main/doc/DEMO%202%20ROADMAP
+Please follow this if you are a developer for a list of tasks that need to be completed.
+
 ## Launcher
 This mod has its own dedicated launcher based off of startSRB2 by Shardvexs.
 The source code can be found in https://github.com/jimmyjamescool/Srb2deltaquest-Musicdta-launcher/tree/main/launcher and the binary is in /dev
